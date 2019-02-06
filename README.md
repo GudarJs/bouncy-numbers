@@ -36,6 +36,12 @@ python bouncy.py calculate --proportion <proportion> # Replace <proportion>
 python bouncy.py checknumber --number <number> # Replace <number>
 ```
 
+## Run tests
+
+``` bash
+pytest
+```
+
 ## License
 
 [MIT](https://github.com/GudarJs/bouncy-numbers/blob/master/LICENSE)
